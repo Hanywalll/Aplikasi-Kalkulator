@@ -1,54 +1,42 @@
-Android Calculator App
+# Android Calculator App
 
 A simple Android calculator application built using Java. This app performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+## Features
 
-Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/)
+- Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (\*), and Division (/)
+- User-friendly UI
+- Error handling for division by zero
+- Clear button to reset input
+- Responsive design
 
-User-friendly UI
+## Technologies Used
 
-Error handling for division by zero
+- **Programming Language**: Java
+- **IDE**: Android Studio
+- **Layout Design**: XML
+- **Android SDK**
 
-Clear button to reset input
+## Installation
 
-Responsive design
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/AndroidCalculatorApp.git
+   ```
+2. Open the project in **Android Studio**.
+3. Build and run the project on an emulator or a real device.
 
-Technologies Used
+## Usage
 
-Programming Language: Java
+1. Open the app.
+2. Enter numbers using the keypad.
+3. Choose an arithmetic operation.
+4. Press the equals `=` button to get the result.
+5. Use the clear `C` button to reset the calculation.
 
-IDE: Android Studio
-
-Layout Design: XML
-
-Android SDK
-
-Installation
-
-Clone this repository:
-
-git clone https://github.com/yourusername/AndroidCalculatorApp.git
-
-Open the project in Android Studio.
-
-Build and run the project on an emulator or a real device.
-
-Usage
-
-Open the app.
-
-Enter numbers using the keypad.
-
-Choose an arithmetic operation.
-
-Press the equals = button to get the result.
-
-Use the clear C button to reset the calculation.
-
-Contributing
+## Contributing
 
 Feel free to fork the repository and submit a pull request with improvements or bug fixes.
 
-
+##
 
